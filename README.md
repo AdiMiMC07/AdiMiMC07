@@ -1,6 +1,6 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Mishra  
 # Student
-Hi, I am Aditya Mishra, a 3rd yr student at Delhi Technological University,Delhi. I am currently pursuing a bachelor's degree in Mathematics and Computing.
+Hi, I am Aditya Mishra, a 4th yr student at Delhi Technological University,Delhi. I am currently pursuing a bachelor's degree in Mathematics and Computing.
 * 👀  I have interest in Mathematics and Technology
 * ✉️  You can contact me at [adityavishu03@gmail.com](mailto:adityavishu03@gmail.com) 
 * 🧠  I'm learning Web Development
