@@ -1,18 +1,38 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Mishra  
+# Hi 👋, I'm Aditya Mishra
 
-Software Engineer | B.Tech (Mathematics & Computing) at Delhi Technological University
+### Software Engineer | B.Tech (Mathematics & Computing) @ Delhi Technological University
+I'm a Software Engineer focused on building scalable mobile applications with React Native, JavaScript/TypeScript, and Node.js. My experience spans gaming and fintech products, where I've worked on analytics platforms, trading experiences, user engagement systems, and mobile app performance optimization. I'm passionate about creating high-quality user experiences and exploring AI-driven applications.
 
-💼 Experience
+### 🎓 Education
 
-- Currently working as a Software Engineer at Gameskraft, contributing to large-scale gaming platforms using Node.js, ReactNative, AWS.
+- **B.Tech, Mathematics & Computing**
+- Delhi Technological University (DTU), Delhi
 
-🎓 Education
+### 🚀 Interests
 
-- B.Tech in Mathematics and Computing at Delhi Technological University (DTU), Delhi.
+- Full-Stack Development
+- Mobile App Development
+- Artificial Intelligence & Machine Learning
+- System Design
+- Competitive Programming
 
-👀 Interests: Full Stack Development, Problem Solving and Competitive Programming
+### 🛠️ Tech Stack
 
-🧑‍💻 Tech Stack: C++, JavaScript, React.js, React Native, Node.js, Express.js, MongoDB, AWS
+**Languages:** C++, JavaScript, TypeScript
+
+**Frontend:** React, React Native, Redux
+
+**Backend:** Node.js, Express.js
+
+**Databases:** MongoDB, MySQL
+
+**Cloud & Tools:** AWS, Git, Docker
+
+### 🌱 Currently Exploring
+
+- AI Engineering & LLM Applications
+- Scalable System Design
+- Advanced React Native Architecture
 
 ✉️ Contact: adityavishu03@gmail.com
 
