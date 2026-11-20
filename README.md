@@ -26,7 +26,7 @@ I'm a Software Engineer focused on building scalable mobile applications with Re
 
 **Databases:** MongoDB, MySQL
 
-**Cloud & Tools:** AWS, Git, Docker
+**Cloud & Tools:** AWS, Git
 
 ### 🌱 Currently Exploring
 
